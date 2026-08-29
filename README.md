@@ -18,21 +18,7 @@
 
 ## 🪐 About Me
 
-```python
-class NeeravManav:
-    def __init__(self):
-        self.username     = "Neexav0"
-        self.role         = "AI/ML Explorer"
-        self.status       = "🎓 Student · perpetually leveling up"
-        self.powers       = ["Python", "Machine Learning", "Curiosity++"]
-        self.current_arc  = "Learning Saga: Chapter ∞"
 
-    def say_hi(self):
-        print("システム起動... Hello, World! 👾")
-
-me = NeeravManav()
-me.say_hi()
-```
 
 - 🔭 Currently exploring: **Machine Learning & Deep Learning**
 - 🌱 On my learning quest: **AI/ML fundamentals, model building, and data storytelling**
@@ -54,12 +40,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neexav0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00FFF0&text_color=C9D1D9" alt="GitHub Stats" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neexav0&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6EC7&fire=00FFF0&currStreakLabel=FF6EC7" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neexav0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6EC7&langs_count=8" alt="Top Languages" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neexav0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFF0&line=FF6EC7&point=FFFFFF" alt="Activity Graph" width="90%"/>
 
 </div>
 
@@ -67,21 +51,14 @@ me.say_hi()
 
 ## 🐍 Contribution Constellation
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Neexav0/Neexav0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
-</div>
 
-> ⚠️ The snake animation renders **after** you finish the GitHub Actions setup below — it'll look broken until then, that's expected.
-
-<br/>
-
-## 🏆 Trophy Room
+<!-- Snake Game Repo View -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Neexav0&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
 <br/>
+
 
 ## 📜 Transmission from the Multiverse
 

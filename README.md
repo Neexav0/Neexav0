@@ -21,7 +21,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Neexav0&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Neexav0&theme=holi&hide_border=false)<br/>

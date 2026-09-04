@@ -44,7 +44,7 @@
 
 - 🔭 Currently exploring: **Machine Learning & Deep Learning**
 - 🌱 On my learning quest: **AI/ML fundamentals, model building, and data storytelling**
-- 🎌 Side quests: anime, sci-fi, and staring at the stars while debugging code
+- 🎌 Side quests: anime, sci-fi, and staring at the stars while debugging code                     
 - 💬 Ask me about: **Python, ML concepts, or good anime recommendations**
 - ⚡ Fun fact: my code and my code compile with roughly the same success rate 😅
 

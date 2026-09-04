@@ -1,20 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:FF6EC7,100:00FFF0&height=220&section=header&text=Neexav0&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Explorer%20%7C%20Cosmic%20Coder%20%7C%20Anime%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- 🌌 COSMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:240046,55:5A189A,80:9D4EDD,100:E0AAFF&height=240&section=header&text=Neexav0&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Explorer%20%7C%20Cosmic%20Coder%20%7C%20Anime%20Enthusiast&descAlignY=55&descSize=18&descColor=E0AAFF" width="100%"/>
 
+<!-- ✨ TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=650&lines=Exploring+the+AI%2FML+multiverse...;Turning+coffee+%E2%98%95+into+neural+nets+%F0%9F%A7%A0;Still+a+student+%7C+Always+leveling+up+%E2%9A%A1;System+booting...+curiosity.exe+running" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=E0AAFF&center=true&vCenter=true&width=750&lines=%E2%9C%A6+Exploring+the+AI%2FML+multiverse...;%F0%9F%A7%A0+Building+things+that+feel+slightly+too+smart;%E2%9A%A1+Student+%7C+Coder+%7C+Constantly+Learning;%F0%9F%8C%8C+curiosity.exe+is+always+running;%F0%9F%9B%B8+Entering+the+Neexav0+dimension..." alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Neexav0&label=Profile%20Views&color=ff6ec7&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Neexav0?label=Followers&style=for-the-badge&color=00fff0&logo=github" alt="Followers"/>
-<a href="https://www.linkedin.com/in/Neerav-Manav"><img src="https://img.shields.io/badge/LinkedIn-Neerav--Manav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<!-- 🌠 PROFILE BADGES -->
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Neexav0&label=PROFILE%20VIEWS&color=7B2CBF&style=for-the-badge&labelColor=0D0221"/>
+
+<img src="https://img.shields.io/github/followers/Neexav0?label=FOLLOWERS&style=for-the-badge&color=5A189A&labelColor=0D0221&logo=github&logoColor=E0AAFF"/>
+
+<a href="https://www.linkedin.com/in/Neerav-Manav">
+<img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=E0AAFF&labelColor=0D0221&color=7B2CBF"/>
+</a>
+
+<br/><br/>
+
+<!-- 🪐 COSMIC DIVIDER -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:7B2CBF,100:0D0221&height=3&section=header" width="80%"/>
 
 <br/>
+
+✨ **WELCOME TO MY LITTLE CORNER OF THE MULTIVERSE** ✨
+
+<br/>
+
+🌌 `AI / ML` &nbsp; • &nbsp; 🧠 `Python` &nbsp; • &nbsp; 💻 `Computer Science` &nbsp; • &nbsp; 🚀 `Always Learning`
+
+<br/><br/>
+
+</div>
 
 ## 🪐 About Me
 

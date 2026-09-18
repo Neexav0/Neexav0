@@ -53,7 +53,7 @@
 ## 🌌 Tech Galaxy
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,cpp,java,git,github,vscode,linux&theme=dark&perline=6" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,github,vscode&theme=dark&perline=6" alt="Tech Stack"/>
 </div>
 
 <br/>
